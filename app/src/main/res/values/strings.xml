@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CekSuratV2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Admin</string>
+    <string name="nav_header_subtitle">Admin@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Dashboard</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_ceksurat">Cek Surat</string>
+    <string name="menu_about">About</string>
+    <string name="menu_buatsurat">Buat surat</string>
+    <string name="menu_kirimsurat">Kirim Surat</string>
+
+    <string name="generate_surat">[Nama Perusahaan]<br></br>[Alamat]<br></br>Telp. [xxx]<br></br>[Tempat dan Tanggal]<br></br>Nomor			:<br></br>Lampiran		:<br></br>Perihal		:<br></br>Kepada Yth.<br></br>[Nama]<br></br>[Jabatan dalam Perusahaan]<br></br>Dengan hormat,<br></br>Berkaitan dengan adanya rencana pembukaan cabang baru [Nama Perusahaan] di wilayah Sulawesi, kami mengundang seluruh jajaran tinggi perusahaan untuk menghadiri rapat koordinasi. Rapat akan dilaksanakan pada:<br></br>Hari / Tanggal		:<br></br>Waktu				:<br></br>Tempat			:<br></br>Demikian surat undangan rapat ini kami buat dengan sebenar-benarnya. Semoga bapak/ibu bisa hadir tepat waktu. Atas perhatiannya, diucapkan terima kasih.<br></br>Hormat kami,<br></br>[Nama]<br></br><br></br>[Jabatan dalam Perusahaan]</string>
+
+    <string name="button_generate">Buat Surat</string>
+    <string name="button_kembali">Kembali</string>
+    <string name="button_reset">Reset</string>
+    <string name="tentang_generate">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec sem blandit arcu sodales accumsan sed dapibus odio. In fringilla sem id enim ornare, eu efficitur urna lobortis. Vestibulum scelerisque at odio at hendrerit. Etiam fermentum commodo arcu tincidunt porttitor. Nam nec tincidunt urna. Morbi blandit tortor non euismod tincidunt. Sed at nunc felis. Nullam tempor quam nibh, sit amet egestas arcu tincidunt vitae. Maecenas libero orci, aliquet sit amet massa eget, pretium consequat orci. Etiam bibendum dui vitae nulla vulputate commodo. Proin dictum laoreet commodo.
+        Vivamus sed nisl ullamcorper, dapibus ipsum eu, imperdiet lacus. Nulla bibendum vehicula dui, sit amet convallis ipsum aliquam in. Ut ut erat sed dui molestie posuere ut quis sem. Quisque in facilisis lorem, a iaculis tortor. Morbi convallis tellus in arcu congue iaculis. Vivamus ultricies elit eget sapien volutpat sodales. Quisque tellus odio, laoreet ut lacus et, tincidunt lacinia ante. Etiam orci sem, dictum non elit vel, lacinia commodo erat. In non gravida sem. Aliquam erat volutpat. Suspendisse mollis leo ac augue imperdiet, eu congue metus rutrum. Nunc vitae varius libero, non egestas nisi. Duis convallis sed magna ac laoreet.
+        Nulla consequat ut dui sodales tincidunt. Sed mollis luctus risus, sed semper arcu porta facilisis. Donec in venenatis purus, at congue magna. Fusce bibendum nunc id tortor tristique ornare. Pellentesque efficitur dignissim risus eget vehicula. Aliquam aliquam elit id tempus mattis. Mauris viverra, dui et semper eleifend, magna purus scelerisque odio, sed luctus ipsum sem nec tellus. Donec diam risus, viverra at lacinia a, placerat in leo. Maecenas congue ante sit amet eleifend condimentum. Proin volutpat elit at nisi porttitor, ut consequat lacus tempus. Vivamus scelerisque nunc id mi vestibulum, at luctus leo consectetur.
+        Sed sem mi, finibus bibendum nunc rhoncus, egestas consequat justo. Etiam ut est sit amet tellus laoreet laoreet. Aliquam erat volutpat. Suspendisse egestas pretium aliquam. Phasellus blandit tellus in orci blandit, a dapibus nulla viverra. Vivamus eu nibh elit. Donec tristique nisl efficitur metus vestibulum vehicula. Phasellus consequat laoreet leo id elementum. Maecenas id neque pharetra quam efficitur fermentum. Vivamus in sagittis massa, ac scelerisque urna. Nulla commodo a elit sed porttitor. Cras auctor semper magna eget egestas. Aenean lacus nulla, consectetur eu cursus ut, pulvinar sed risus.
+        Nam condimentum felis nec purus imperdiet euismod. In scelerisque pharetra pulvinar. Sed id feugiat arcu, sed dignissim urna. Suspendisse eleifend dolor ac arcu lacinia elementum. Nam eu tristique eros, eget ornare ligula. Quisque dignissim laoreet fermentum. Donec volutpat pretium mattis.
+    </string>
+</resources>
